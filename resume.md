@@ -4,7 +4,7 @@ Seattle,WA | 425-000-0000 | Email:xxxia622@uw.edu
 
 > "Mosses flowers like rice tiny, yet rush to bloom like the peony."
 
-![](1.jpg = 100*100)
+![](1.jpg|width=100)
 
 ## Work Experience
 #### University of Washington
