@@ -23,7 +23,7 @@ Jun, 2018
 #### [University of Washington](https://www.washington.edu/) (Seattle, WA)
 ##### Major: BA in Geography, Data Science
 ##### Minor: Mathematics
-(Jan 2019 - Jun 2021, Dean's List)
+(Class of 2021, Dean's List)
 ## Skills
 * Programing Experience: SQL, HTML, JavaScript, CSS, R, PostgreSQL, Java.
 * Software: ArcMap, ArcGIS Pro, QGIS.
