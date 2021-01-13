@@ -34,4 +34,4 @@ Jun, 2018
 ### About Me
 > "Mosses flowers like rice tiny, yet rush to bloom like the peony."
 
-![1](https://user-images.githubusercontent.com/77243665/104510133-8ab1c800-559f-11eb-9f05-0cb6de3f74bf.JPG)
+![1](https://user-images.githubusercontent.com/77243665/104510530-29d6bf80-55a0-11eb-8c3c-73b609e3e060.JPG)
