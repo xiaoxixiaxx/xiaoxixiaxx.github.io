@@ -20,18 +20,21 @@ Jun, 2018
 ##### Major: BA in Geography, Data Science
 ##### Minor: Mathematics
 (Class of 2021, Dean's List)
+
 ## Skills
 * Programing Experience: SQL, HTML, JavaScript, CSS, R, PostgreSQL, Java.
 * Software: ArcMap, ArcGIS Pro, QGIS.
 * Languages: English, Chinese.
 * Interpersonal Skills: Time Management, Teamwork, Rigorous Attitude, Quick Learner, Tackle Questions from Different Angle, Impeccable Organizational Skills.
+
 ## Relevant Courses
 * GIS Data Management
 * GIS Database & Programing
 * Advanced Digital Geographies
 * Statistical Method
 * Linear Analysis
-### About Me
+
+## About Me
 > "Mosses flowers like rice tiny, yet rush to bloom like the peony."
 
-![1](https://user-images.githubusercontent.com/77243665/104510760-84701b80-55a0-11eb-890f-67ec84f84196.JPG)
+```![1](https://user-images.githubusercontent.com/77243665/104510760-84701b80-55a0-11eb-890f-67ec84f84196.JPG)
