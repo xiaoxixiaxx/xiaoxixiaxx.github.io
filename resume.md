@@ -3,20 +3,20 @@
 Seattle,WA | 425-000-0000 | Email:xxxia622@uw.edu
 
 ## Work Experience
-#### University of Washington
+### University of Washington
 ##### Researcher (Seattle, WA)
 Oct, 2020 - Present
 
-#### Bellevue College
+### Bellevue College
 ##### MATH Tutor (Bellevue, WA)
 Sep, 2018 - Jan, 2019
 
-#### Issaquah Food & Clothing Bank
+### Issaquah Food & Clothing Bank
 ##### Volunteer (Issaquah, WA)
 Jun, 2018
 
 ## Education
-#### [University of Washington](https://www.washington.edu/) (Seattle, WA)
+### [University of Washington](https://www.washington.edu/) (Seattle, WA)
 ##### Major: BA in Geography, Data Science
 ##### Minor: Mathematics
 (Class of 2021, Dean's List)
@@ -37,4 +37,4 @@ Jun, 2018
 ## About Me
 > "Mosses flowers like rice tiny, yet rush to bloom like the peony."
 
-   ![1](https://user-images.githubusercontent.com/77243665/104510760-84701b80-55a0-11eb-890f-67ec84f84196.JPG)
+![1](https://user-images.githubusercontent.com/77243665/104510760-84701b80-55a0-11eb-890f-67ec84f84196.JPG)
