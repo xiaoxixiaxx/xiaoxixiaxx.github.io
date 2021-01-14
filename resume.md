@@ -1,6 +1,6 @@
 # Xiaoxi Xiao
 
-Seattle,WA | 425-000-0000 | Email:xxxia622@uw.edu
+Seattle,WA | 425-000-0000 | Email: xxxia622@uw.edu
 
 ## Work Experience
 ### University of Washington
