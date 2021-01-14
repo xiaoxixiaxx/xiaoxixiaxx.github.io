@@ -7,7 +7,7 @@ Seattle,WA | 425-000-0000 | Email:xxxia622@uw.edu
 ##### Researcher (Seattle, WA)
 Oct, 2020 - Present
 
-### Bellevue College
+### [Bellevue College](https://www.bellevuecollege.edu/asc/math/)
 ##### MATH Tutor (Bellevue, WA)
 Sep, 2018 - Jan, 2019
 
