@@ -34,7 +34,7 @@ Jun, 2018
 * Statistical Method
 * Linear Analysis
 
-## About Me
+## [About Me](https://xiaoxixiaxx.github.io/)
 > "Mosses flowers like rice tiny, yet rush to bloom like the peony."
 
 ![1](https://user-images.githubusercontent.com/77243665/104510760-84701b80-55a0-11eb-890f-67ec84f84196.JPG)
