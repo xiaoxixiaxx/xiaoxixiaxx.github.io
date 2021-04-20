@@ -17,8 +17,7 @@ Jun, 2018
 
 ## Education
 ### [University of Washington](https://www.washington.edu/) (Seattle, WA)
-##### Major: BA in Geography, Data Science
-##### Minor: Mathematics
+##### Major: Geography, Data Science
 (Class of 2021, Dean's List)
 
 ## Skills
