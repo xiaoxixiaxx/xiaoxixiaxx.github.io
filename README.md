@@ -30,7 +30,9 @@ Jun, 2018
 * GIS Data Management
 * GIS Database & Programing
 * Advanced Digital Geographies
-* Statistical Method
+* Urban GIS
+* Machine Learning
+* Statistical Methods
 * Linear Analysis
 
 ## [About Me](https://xiaoxixiaxx.github.io/)
