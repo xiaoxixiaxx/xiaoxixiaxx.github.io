@@ -21,7 +21,7 @@ Jun, 2018
 (Class of 2021, Dean's List)
 
 ## Skills
-* Programing Experience: SQL, HTML, JavaScript, CSS, R, PostgreSQL, Java.
+* Programing Experience:Python, SQL, HTML, JavaScript, CSS, R, PostgreSQL, Java.
 * Software: ArcMap, ArcGIS Pro, QGIS.
 * Languages: English, Chinese.
 * Interpersonal Skills: Time Management, Teamwork, Rigorous Attitude, Quick Learner, Tackle Questions from Different Angle, Impeccable Organizational Skills.
