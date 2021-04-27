@@ -3,16 +3,16 @@
 Seattle,WA | 469-442-8849 | Email: xxxia622@uw.edu
 
 ## Work Experience
-### University of Washington
-##### Researcher (Seattle, WA)
+### Researcher 
+##### University of Washington (Seattle, WA)
 Oct, 2020 - Present
 
-### [Bellevue College](https://www.bellevuecollege.edu/asc/math/)
-##### MATH Tutor (Bellevue, WA)
+###  MATH Tutor
+##### [Bellevue College](https://www.bellevuecollege.edu/asc/math/) (Bellevue, WA)
 Sep, 2018 - Jan, 2019
 
-### Issaquah Food & Clothing Bank
-##### Volunteer (Issaquah, WA)
+### Volunteer
+##### Issaquah Food & Clothing Bank (Issaquah, WA)
 Jun, 2018
 
 ## Education
