@@ -1,6 +1,6 @@
 # Xiaoxi Xiao
 
-Seattle,WA | 469-442-8849 | Email: xxxia622@uw.edu
+Seattle,WA | 469-442-8849 | Email: xxxia622@gmail.com
 
 ## Work Experience
 ### Researcher 
