@@ -3,7 +3,7 @@
 Seattle,WA | 469-442-8849 | Email: xxxia622@gmail.com
 
 ## Work Experience
-### Researcher 
+### Data Analyst and Photogrammetry (Undergraduate Researcher) 
 ##### University of Washington (Seattle, WA)
 Oct, 2020 - Present
 
@@ -22,7 +22,7 @@ Jun, 2018
 
 ## Skills
 * Programing Experience: Python, SQL, HTML, JavaScript, CSS, R, PostgreSQL, Java.
-* Software: ArcMap, ArcGIS Pro, QGIS.
+* Software: ArcMap, ArcGIS Pro, QGIS, PostGIS.
 * Languages: English, Chinese.
 * Interpersonal Skills: Time Management, Teamwork, Rigorous Attitude, Quick Learner, Tackle Questions from Different Angle, Impeccable Organizational Skills.
 
@@ -31,9 +31,11 @@ Jun, 2018
 * GIS Database & Programing
 * Advanced Digital Geographies
 * Urban GIS
+* Computer Programming I&II
 * Machine Learning
 * Statistical Methods
-* Linear Analysis
+* Linear Algebra
+* Advanced Multivariable Calculus
 
 ## [About Me](https://xiaoxixiaxx.github.io/)
 > "Mosses flowers like rice tiny, yet rush to bloom like the peony."
