@@ -37,6 +37,12 @@ Jun, 2018
 * Linear Algebra
 * Advanced Multivariable Calculus
 
+## Interests   
+* Data Analyst
+* GIScience
+* Data Science
+* Numerical Algorithms
+
 ## [About Me](https://xiaoxixiaxx.github.io/)
 > "Mosses flowers like rice tiny, yet rush to bloom like the peony."
 
