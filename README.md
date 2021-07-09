@@ -37,10 +37,10 @@ Jun, 2018
 * Linear Algebra
 * Advanced Multivariable Calculus
 
-## Interests   
+## Interests 
+* Data Science
 * Data Analyst
 * GIScience
-* Data Science
 * Numerical Algorithms
 
 ## [About Me](https://xiaoxixiaxx.github.io/)
